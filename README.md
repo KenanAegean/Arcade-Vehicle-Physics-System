@@ -9,6 +9,7 @@ Instead, I used the **UE Chaos Wheeled Vehicle** framework as a robust base for 
 ---
 
 ## Table of Contents
+- [Video Showcase](#video-showcase)
 - [Design Choices](#design-choices)
 - [Implementation Highlights](#implementation-highlights)
   - [Hybrid Drift & Lateral Friction](#hybrid-drift--lateral-friction)
@@ -21,6 +22,13 @@ Instead, I used the **UE Chaos Wheeled Vehicle** framework as a robust base for 
   - [Launch Boost Logic](#launch-boost-logic)
   - [Artificial Downforce](#artificial-downforce)
 - [Key Takeaways](#key-takeaways)
+
+---
+
+## Video Showcase
+
+https://github.com/user-attachments/assets/71f21872-efc8-4081-a666-a1fe7a4d59fb
+
 
 ---
 
