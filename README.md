@@ -5,6 +5,8 @@ This project features a **custom-built arcade vehicle physics system** in Unreal
 Initially, the plan was to write the entire vehicle physics engine from scratch using raw force applications. However, I pivoted to a **hybrid approach** after recognizing the immense complexity of recreating stable wheel-ground friction and suspension constraints from zero.
 
 Instead, I used the **UE Chaos Wheeled Vehicle** framework as a robust base for collision + basic movement, then built a comprehensive layer of **custom arcade logic** on top to override the default “simulation” feel.
+<img width="864" height="527" alt="Technical Report_ Arcade Vehicle Physics System (Unreal Engine) - visual selection2" src="https://github.com/user-attachments/assets/6bc872c0-b9a3-4ba0-86bc-e462309f0e2b" />
+
 
 ---
 
